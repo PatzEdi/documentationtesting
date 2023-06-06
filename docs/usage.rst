@@ -20,7 +20,7 @@ you can use the ``commandhere`` function:
 
 .. autofunction:: docs.testing
 
-The ``dics`` parameter should be either ``"test"``, ``"testing"``,
+The ``docs`` parameter should be either ``"test"``, ``"testing"``,
 or ``"tested"``. Otherwise, :py:func:`docs.testing`
 will raise an exception.
 
