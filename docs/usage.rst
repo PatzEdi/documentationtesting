@@ -11,7 +11,7 @@ Installation
 
 
 To install:
------------
+   --------
 
 .. code-block:: console
 
