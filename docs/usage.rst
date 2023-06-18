@@ -1,19 +1,24 @@
+.. _usage:
+
+*******
 Usage
-=====
+*******
 
 .. _installation:
 
 Installation
-------------
+============
+
 
 To install:
+-----------
 
 .. code-block:: console
 
    (.venv) $ pip install testdocumentation
 
 Creating stuff
-----------------
+==============
 
 To retrieve a list of random ingredients,
 you can use the ``commandhere`` function:
